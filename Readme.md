@@ -3,9 +3,9 @@
 ## ☀️快读开始
 包含 45个单词本，如果有想定制单词本 pdf 的，可以看文末发我即可，都会开源
 并且包含了我自己个人的 cdn，不要乱刷啊，点个 start 就好了～
-+ html [下载示例.html](html%2F2024%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%BA%A2%E5%AE%9D%E4%B9%A6%28%E4%B8%8A%29.html) 里面是每一个单词本的 html 页面 
-+ markdown [下载示例.md](markdown%2F%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E7%94%A8%E8%8B%B1%E8%AF%AD.md) 是每一个单词本的 markdown 格式
-+ pdf [下载示例.pdf](pdf%2F%E8%80%83%E7%A0%94.pdf) 强烈推荐，看这个（但是不全，因为文件太大无法上传完整）
++ pdf [下载示例.pdf](pdf%2Fword%20roots1.pdf) 强烈推荐，看这个，在目录pdf 下
++ html [下载示例.html](html%2Fword%20roots1.html) 里面是每一个单词本的 html 页面 
++ markdown [下载示例.md](markdown%2Fword%20roots1.md) 是每一个单词本的 markdown 格式
 + sql 具体导入数据库
 
 ## ✨ 特点：
